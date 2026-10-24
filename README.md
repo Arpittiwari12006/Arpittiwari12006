@@ -1,246 +1,227 @@
-<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arpit%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Blockchain%20%26%20Crypto%20Products%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Arpit Tiwari banner"/>
+<img src="assets/hero.svg" width="100%" alt="Arpit Tiwari — Full-Stack Engineer · Blockchain Builder"/>
 
-<a href="https://github.com/Arpittiwari12006">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+%26+TypeScript;I+build+real-time+crypto+%26+Web3+products;React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Tailwind;Turning+market+data+into+usable+interfaces;Open+to+internships%2C+collabs+%26+full-time+roles" alt="Typing SVG" />
-</a>
+<img src="assets/ticker.svg" width="100%" alt="live crypto ticker"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arpittiwari12006&label=Profile%20Views&color=00b8d4&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/badge/Based%20in-Khanna%2C%20Punjab-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Location"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00c853?style=for-the-badge" alt="Status"/>
+![Views](https://komarev.com/ghpvc/?username=Arpittiwari12006&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Arpittiwari12006?label=FOLLOWERS&style=for-the-badge&color=7C4DFF&labelColor=0d1117&logo=github)
+![Stars](https://img.shields.io/github/stars/Arpittiwari12006?label=STARS&style=for-the-badge&color=F7931A&labelColor=0d1117&logo=github)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E676?style=for-the-badge&labelColor=0d1117)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzp0hvCl89_dj9GvvBREBFQ)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ArpitTi59178439)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://arpittiwari.lovable.app)
+[![KaroCryptoTrack](https://img.shields.io/badge/KaroCryptoTrack-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://karocryptotrack.lovable.app)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpittiwari12006@gmail.com)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/terminal.svg" width="88%" alt="terminal intro"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<!-- ============================== SOCIAL ============================== -->
+## 🧬 `whoami`
+
+```ts
+const arpit = {
+  name:         "Arpit Tiwari",
+  role:         "Full-Stack Engineer",
+  base:         "Khanna, Punjab, India 🇮🇳",
+  education:    "B.Tech CSE · Chandigarh Group of Colleges · 2022–2026",
+  stack:        ["React", "TypeScript", "Node.js", "Express", "MongoDB", "Tailwind"],
+  obsessedWith: ["real-time data", "clean architecture", "blockchain", "cryptography"],
+  shipping:     "KaroCryptoTrack — live crypto intelligence platform",
+  mantra:       "Ship fast. Measure honestly. Iterate relentlessly.",
+  openTo:       ["internships", "full-time SDE / full-stack roles", "Web3 & fintech collabs"],
+};
+```
+
+> **I build products where live market data meets interfaces people trust** — on the MERN stack, with React + TypeScript frontends and a first-principles grasp of the cryptography beneath Web3.
+
+<br/>
+
+## 🔥 Flagship — [KaroCryptoTrack](https://karocryptotrack.lovable.app)
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzp0hvCl89_dj9GvvBREBFQ)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ArpitTi59178439)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://arpittiwari.lovable.app)
-[![KaroCryptoTrack](https://img.shields.io/badge/KaroCryptoTrack-Live-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://karocryptotrack.lovable.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpittiwari12006@gmail.com)
+[![Launch](https://img.shields.io/badge/▶_LAUNCH_LIVE_APP-karocryptotrack.lovable.app-F7931A?style=for-the-badge&labelColor=0d1117)](https://karocryptotrack.lovable.app)
 
 </div>
 
----
+**A full-stack cryptocurrency information and price-tracking SaaS** delivering live market data and push-based price alerts.
 
-## 🧠 About Me
+```mermaid
+flowchart LR
+    A[🌐 CoinGecko API] -->|market data| B[⚙️ Node.js + Express]
+    B <-->|persist| C[(🍃 MongoDB)]
+    B -->|SSE stream| D[🔔 Live Price Alerts]
+    B -->|REST| E[⚛️ React + Tailwind UI]
+    D --> E
+    style A fill:#F7931A,color:#000
+    style B fill:#339933,color:#fff
+    style C fill:#47A248,color:#fff
+    style D fill:#7C4DFF,color:#fff
+    style E fill:#00E5FF,color:#000
+```
 
-I engineer **full-stack products at the intersection of web development and blockchain**, shipping real-time, data-driven applications on the MERN stack with React and TypeScript frontends. My focus is turning volatile market data into fast, clear, trustworthy interfaces, and I extend that into the cryptography, consensus, and security principles that underpin Web3 systems.
-
-Final-year B.Tech Computer Science student with hands-on delivery across crypto dashboards, live price-alert pipelines, and production-style SaaS architecture. I build in public, document what I learn, and ship.
-
-> 💡 **Operating principle:** Real-time data, clean architecture, and interfaces that explain themselves.
-
----
-
-## 🚀 Current Work
-
-<table align="center">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="33%" align="center">
 
-### 🪙 [KaroCryptoTrack](https://karocryptotrack.lovable.app)
-**Full-stack cryptocurrency information & price tracking SaaS**
-
-- 📡 Real-time market data via the **CoinGecko API**
-- 🔔 **Server-Sent Events (SSE)** powered live price-alert system
-- ⚙️ **MERN architecture:** React + Tailwind frontend, Node.js/Express API, MongoDB persistence
-- 🤝 Built with teammate [Aditya Raj](https://github.com/)
-
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-karocryptotrack.lovable.app-F7931A?style=flat-square)](https://karocryptotrack.lovable.app)
+### 📡 Real-Time
+CoinGecko-powered live prices
 
 </td>
-<td width="40%" valign="top">
+<td width="33%" align="center">
 
-### 📊 Project Snapshot
+### 🔔 Push Alerts
+Server-Sent Events delivery, no polling
 
-| Metric | Detail |
-|:--|:--|
-| **Stack** | MERN + Tailwind |
-| **Data Source** | CoinGecko API |
-| **Alerts** | SSE live push |
-| **Assets Tracked** | Bitcoin + major coins |
-| **Type** | SaaS / Full-stack |
-| **Status** | 🟢 Live |
+</td>
+<td width="33%" align="center">
+
+### 🧱 Full MERN
+React · Express · Node · MongoDB
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+## 🪐 Tech Universe
 
 <div align="center">
 
-**Frontend**
+<img src="assets/orbit.svg" width="640" alt="Animated orbit of my tech stack"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Languages & Core CS**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white)
-
-**Domains of Depth**
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-8A2BE2?style=for-the-badge&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI_%26_RL-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Network Security](https://img.shields.io/badge/Wireless_Security-D32F2F?style=for-the-badge&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,mongodb,git,github,cpp&perline=12" alt="skills"/>
 
 </div>
 
----
+<details>
+<summary><b>🔬 Deep-dive: areas of expertise (click to expand)</b></summary>
+<br/>
 
-## 🔬 Areas of Expertise
-
-| 🌐 Full-Stack Engineering | ⛓️ Blockchain & Web3 | 🔐 Security & Cryptography | 🤖 AI & Algorithms |
+| ⛓️ Blockchain & Web3 | 🔐 Security & Crypto | 🤖 AI & Algorithms | 🌐 Engineering |
 |:--|:--|:--|:--|
-| MERN architecture | Public vs. private chain design | SHA-256 & hashing applications | Rational agents, state-space search |
-| Real-time systems (SSE) | Digital identity & land records | Wireless security (WPA2/WPA3, 802.1X) | MDPs, value/policy iteration |
-| REST API design | ZKPs & post-quantum cryptography | Cipher fundamentals | Competitive programming |
-| React + TypeScript UIs | Public-sector blockchain use cases | | Data mining & warehousing |
+| Public vs. private chains | SHA-256 & hashing applications | Rational agents, PEAS | MERN architecture |
+| Digital identity, land records | Cipher fundamentals | State-space search | Real-time SSE pipelines |
+| Public distribution systems | ZKPs, post-quantum crypto | MDPs, Bellman equations | React + TypeScript UIs |
+| Finance · healthcare · supply chain | WPA2/WPA3, 802.1X | Value & policy iteration | REST API design |
 
----
+</details>
 
-## 🎥 Content & Community
+<br/>
+
+## 📊 GitHub Command Center
 
 <div align="center">
 
-| Platform | What I Share | Link |
-|:--:|:--|:--:|
-| ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | Build walkthroughs, project demos, dev learnings | [Channel →](https://www.youtube.com/channel/UCzp0hvCl89_dj9GvvBREBFQ) |
-| ![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white) | Dev updates, crypto-tech insights, build-in-public | [Follow →](https://x.com/ArpitTi59178439) |
-| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | Professional updates, project launches | [Connect →](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/) |
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Arpittiwari12006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=F7931A&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpittiwari12006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&langs_count=8" alt="langs"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpittiwari12006&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=F7931A&currStreakLabel=00E5FF&sideLabels=7C4DFF" alt="streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arpittiwari12006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpittiwari12006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=7C4DFF&point=F7931A&area=true&area_color=7C4DFF" width="98%" alt="activity"/>
+
+<img src="https://raw.githubusercontent.com/Arpittiwari12006/Arpittiwari12006/output/github-contribution-grid-snake-dark.svg" width="98%" alt="snake"/>
 
 </div>
 
----
+<br/>
 
-## 📌 Featured Work
+## 🎥 Build in Public
+
+<div align="center">
+
+| | Channel | Focus |
+|:--:|:--|:--|
+| ![YT](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | [**Subscribe →**](https://www.youtube.com/channel/UCzp0hvCl89_dj9GvvBREBFQ) | Project walkthroughs · dev learnings · demos |
+| ![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white) | [**Follow →**](https://x.com/ArpitTi59178439) | Build logs · crypto-tech takes |
+| ![LI](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [**Connect →**](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/) | Launches · career milestones |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🪙 KaroCryptoTrack
-Full-stack crypto tracker with live prices from CoinGecko and an SSE-based alert engine.
+#### 🪙 KaroCryptoTrack
+Live crypto tracker with an SSE alert engine on the MERN stack.
 
-`React` `Tailwind` `Node.js` `Express` `MongoDB`
+`React` `Tailwind` `Node.js` `Express` `MongoDB` `CoinGecko`
 
-[🔗 Live](https://karocryptotrack.lovable.app) • [💻 Code](https://github.com/Arpittiwari12006)
+[**🔗 Live**](https://karocryptotrack.lovable.app) · [**💻 GitHub**](https://github.com/Arpittiwari12006)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
-Personal portfolio showcasing projects, skills, and engineering approach.
+#### 🌐 Developer Portfolio
+Personal brand site showcasing projects, skills, and engineering approach.
 
 `React` `TypeScript` `Tailwind`
 
-[🔗 Live](https://arpittiwari.lovable.app) • [💻 Code](https://github.com/Arpittiwari12006)
+[**🔗 Live**](https://arpittiwari.lovable.app) · [**💻 GitHub**](https://github.com/Arpittiwari12006)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-### ⛓️ Blockchain Research & Applied Studies
-Applied analysis of blockchain across **finance, healthcare, supply chain, education, government, and digital identity**, plus SHA-256 hashing implementations and cryptographic fundamentals.
+#### ⛓️ Blockchain Applied Research
+Case studies across **finance · healthcare · supply chain · education · government · digital identity**, plus SHA-256 implementations and cryptographic fundamentals.
 
-`Blockchain` `SHA-256` `Cryptography` `Case Studies`
+`Blockchain` `SHA-256` `Cryptography` `ZKPs`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Analytics
+## 🎓 Education
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arpittiwari12006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=F7931A&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpittiwari12006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpittiwari12006&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=F7931A&currStreakLabel=00E5FF" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpittiwari12006&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=F7931A&point=ffffff" alt="Contribution Graph" width="95%"/>
+| 🏫 Institution | 🎯 Degree | 📅 Batch |
+|:--:|:--:|:--:|
+| Chandigarh Group of Colleges, Jhanjheri<br/><sub>Affiliated to I.K. Gujral Punjab Technical University</sub> | B.Tech, Computer Science & Engineering | 2022 – 2026 |
 
 </div>
 
----
-
-## 🎓 Education & Achievements
-
-| | |
-|:--|:--|
-| 🎓 **Degree** | B.Tech, Computer Science & Engineering (2022 – 2026) |
-| 🏫 **Institution** | Chandigarh Group of Colleges, Jhanjheri, affiliated to I.K. Gujral Punjab Technical University |
-| 🚢 **Shipped** | Full-stack crypto SaaS with real-time data and alerting |
-| 📚 **Coursework Depth** | Blockchain Business Models, Data Mining & Warehousing, AI, Wireless Security |
-| 🧩 **Practice** | Competitive programming & LeetCode (C++) |
-
----
-
-## 🤝 Let's Build Together
+<br/>
 
 <div align="center">
 
-**Open to:** 💼 Internships &nbsp;•&nbsp; 🚀 Full-time SDE / Full-Stack roles &nbsp;•&nbsp; 🤝 Open-source collaboration &nbsp;•&nbsp; ⛓️ Web3 & fintech projects
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<br/>
+## 🤝 Let's Build Something Remarkable
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-arpittiwari12006@gmail.com-EA4335?style=for-the-badge)](mailto:arpittiwari12006@gmail.com)
-[![Message on LinkedIn](https://img.shields.io/badge/💬_DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/)
+### 💼 Internships &nbsp;·&nbsp; 🚀 Full-Stack / SDE Roles &nbsp;·&nbsp; ⛓️ Web3 & Fintech Collabs &nbsp;·&nbsp; 🛠️ Open Source
 
-<br/>
+[![Email](https://img.shields.io/badge/📧_arpittiwari12006@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117)](mailto:arpittiwari12006@gmail.com)
+[![LinkedIn DM](https://img.shields.io/badge/💬_DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/arpit-tiwari-3b66472b1/)
 
-*"Ship fast, measure honestly, iterate relentlessly."*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=7C4DFF&center=true&vCenter=true&width=600&lines=%22Ship+fast.+Measure+honestly.+Iterate+relentlessly.%22" alt="quote"/>
 
-</div>
+![Last Updated](https://img.shields.io/badge/LAST%20UPDATED-OCT%202026-00E5FF?style=flat-square&labelColor=0d1117)
+![Visitors](https://komarev.com/ghpvc/?username=Arpittiwari12006&label=VISITORS&color=F7931A&style=flat-square&labelColor=0d1117)
 
----
-
-<!-- ============================== FOOTER ============================== -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/Last%20Updated-October%202026-00b8d4?style=flat-square" alt="Last updated"/>
-<img src="https://komarev.com/ghpvc/?username=Arpittiwari12006&label=Visitors&color=F7931A&style=flat-square" alt="Visitors"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7931A,50:7C4DFF,100:00E5FF&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
